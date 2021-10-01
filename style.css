@@ -849,7 +849,7 @@ cursor: pointer;
       left: -20rem;
       width: 20rem;
       height: 100vh;
-      background: linear-gradient(to bottom, #032181, #094399, #04207c);
+      background: linear-gradient(to bottom, #066399, #2f8fdf, #066399);
       flex-direction: column;
       padding-top: 2rem;
       z-index: 200;
